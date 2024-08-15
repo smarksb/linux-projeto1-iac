@@ -1,6 +1,6 @@
 # Script IaC
 
-### Desafio da criação de script do curso de Linux da DIO
+### Desafio da criação de script do curso de Linux DIO
 
 ### O que usei 
 - Shell
