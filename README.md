@@ -24,7 +24,7 @@ Com esse script você vai criar toda a infraestrutura de:
 
 2 - Criação dos grupos de usuários 
 
-3 - Criação de 9 usuários definindo: 
+3 - Criação de 9 usuários definindo
 - pasta de usuário
 - indicação do bash
 - senhas padrão de cada usuário 
