@@ -23,12 +23,16 @@ Com esse script você vai criar toda a infraestrutura de:
 - sec
 
 2 - Criação dos grupos de usuários 
+- GRP_ADM
+- GRP_VEN
+- GRP_SEC
 
 3 - Criação de 9 usuários definindo
 - pasta de usuário
 - indicação do bash
-- senhas padrão de cada usuário 
+- senha padrão de cada usuário 
 - atribuição do grupo para cada 3 usuários 
 
 4 - Especificando as permissões de cada grupo 
+- Utilizando o chown e o chmod
 
